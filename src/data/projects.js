@@ -15,7 +15,7 @@ export const projects = [
       "Framer Motion",
     ],
     status: "Completed",
-    image: "/image/projects/tessera.png",
+    image: "/projects/tessera.png",
     features: [
       {
         title: "Project Showcase",
@@ -50,7 +50,7 @@ export const projects = [
       "React Router",
     ],
     status: "Completed",
-    image: "/image/projects/nestora.png",
+    image: "/projects/nestora.png",
     features: [
       {
         title: "Property Discovery",
@@ -79,7 +79,7 @@ export const projects = [
     github: "https://github.com/Anisha92/react-ecommerce-frontend",
     stack: ["React", "JavaScript", "Tailwind CSS"],
     status: "Completed",
-    image: "/image/projects/ecommerce.png",
+    image: "/projects/ecommerce.png",
     features: [
       {
         title: "Product Listing",
@@ -105,7 +105,7 @@ export const projects = [
     github: "",
     stack: ["UI Design", "Responsive Design", "Frontend"],
     status: "In Progress",
-    image: "/image/projects/crochet.png",
+    image: "/projects/crochet.png",
     features: [
       {
         title: "Handmade Showcase",
