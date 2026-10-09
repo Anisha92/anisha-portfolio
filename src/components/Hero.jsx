@@ -392,7 +392,7 @@ export default function Hero() {
                 "
               >
                 <img
-                  src="/image/user-profile.png"
+                  src="/user-profile.png"
                   alt="Anisha"
                   className="
                     h-[350px]
